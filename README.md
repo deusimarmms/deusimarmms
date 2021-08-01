@@ -3,7 +3,7 @@
  
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas (Cruzeiro do Sul) 4ºSemestre 2020 / 2021 
 - 🎓 Estudando ReactJS
-- 🔧 Possuo Conhecimentos em HTML 5 , CSS 3 , WordPress,BootStrap,Sass
+- 🔧 Possuo Conhecimentos em HTML 5,CSS 3,BootStrap,Sass,JavaScript
 - 💼 Trabalhei Durante 7 anos como técnico em informática e estou  migrando para área de Desenvolvimento Front-End.
 - 📩 deusimarmms@outlook.com
 - 📱55(11) 93722-5954
