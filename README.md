@@ -1,7 +1,7 @@
 # Deusimar Moraes Matos Souza 👋
 
  
-- 🎓 Estudante de Analise e Desenvolvimento de Sistemas (Cruzeiro do Sul) 4ºSemestre 2020 / 2021 
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas , Universidade Cruzeiro do Sul 2022
 - 🎓 Estudando ReactJS
 - 🔧 Possuo Conhecimentos em HTML 5,CSS 3,BootStrap,Sass,Jquery,JavaScript
 - 📩 deusimarmms@outlook.com
