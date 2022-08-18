@@ -5,7 +5,7 @@
 - 🎓 Estudando ReactJS
 - 🔧 Possuo Conhecimentos em HTML 5,CSS 3,Bootstrap,Sass,Jquery,JavaScript,Gulp
 - 📩 deusimarmms@outlook.com
-- 📱55(11) 93722-5954
+- 📱55(11) 95490-2224
  <div>
   <a href="https://github.com/deusimarmms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deusimarmms&show_icons=true&theme=dark&include_all_commits=true&count_private=true""/>
