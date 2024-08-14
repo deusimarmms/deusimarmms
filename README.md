@@ -2,8 +2,6 @@
 
  
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas , Universidade Cruzeiro do Sul 2022
-- 🎓 Estudando ReactJS
-- 🔧 Possuo Conhecimentos em HTML 5,CSS 3,Bootstrap,Sass,Jquery,JavaScript,Gulp
 - 📩 deusimarmms@outlook.com
 - 📱55(11) 95490-2224
  <div>
